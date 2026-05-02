@@ -42,6 +42,16 @@ A simple 2D enemy AI prototype built in Unity and C#.
 - C#
 - Rigidbody2D
 - TextMeshPro
+- 
+## Main Scripts
+
+- EnemyAI.cs - handles patrol, chase, attack range and attack cooldown
+- Player.cs - handles movement, jump, health and knockback
+- Manager.cs - handles UI updates
+
+## Notes
+
+This project focuses on gameplay programming and enemy AI logic, not final art or level design.
 
 ## Project Status
 
