@@ -3,8 +3,7 @@
 A simple 2D enemy AI prototype built in Unity and C#.
 
 ## Gameplay Demo
-
-[![Watch the gameplay demo](Media/screenshot.png)]([(https://youtu.be/mixqcWA7QXk)])
+[![Watch the gameplay demo](Media/screenshot.png)](https://youtu.be/mixqcWA7QXk)
 
 > Click the image above to watch the gameplay demo.
 
