@@ -42,7 +42,7 @@ A simple 2D enemy AI prototype built in Unity and C#.
 - C#
 - Rigidbody2D
 - TextMeshPro
-- 
+  
 ## Main Scripts
 
 - EnemyAI.cs - handles patrol, chase, attack range and attack cooldown
